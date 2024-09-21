@@ -1,0 +1,10 @@
+# .gitignore file
+Model/adapter_model.safetensors
+Model/tokenizer.json
+Model/tokenizer.model
+Model/training_args.bin
+
+*.safetensors
+*.json
+*.model
+*.bin
